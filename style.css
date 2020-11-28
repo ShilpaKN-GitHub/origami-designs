@@ -1,0 +1,40 @@
+h1
+{
+    color: darkblue;
+    border: 5px solid darkslategrey;
+    padding: 2%;
+    background-color: burlywood;
+}
+
+body
+{
+    background-color: aliceblue;
+    border: solid;
+    padding: 3%;
+}
+
+img
+{
+    border: 5px solid black;
+    border-radius: 40px;
+    width: 200px;
+    height: 200px;
+}
+
+p
+{
+    font-family: Cambria, Calibri;
+    font-weight: bold;
+    text-align: justify;
+}
+
+ol, ul
+{
+    font-family: Cambria, Calibri;
+}
+
+hr
+{
+    width: 100%;
+    overflow: hidden;
+}
